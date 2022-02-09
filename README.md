@@ -29,12 +29,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitgoel09&show_icons=true&locale=en" alt="harshitgoel09" /></p>
-
-<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgoel09&" alt="harshitgoel09" /></p>
