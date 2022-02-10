@@ -1,9 +1,11 @@
 <h1 >Hi 👋, I'm Harshit Goel</h1>
+<img align="right" alt="Coding" width="400" src=""> 
+
 <h3 >Front-End Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitgoel09&label=Profile%20views&color=0e75b6&style=flat" alt="harshitgoel09" /> </p>
 
-<p align="left"> <a href="https://twitter.com/harshitgoel09" target="blank"><img src="https://img.shields.io/twitter/follow/harshitgoel09?logo=twitter&style=for-the-badge" alt="harshitgoel09" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/harshitgoel09" target="blank"><img src="https://img.shields.io/twitter/follow/harshitgoel09?logo=twitter&style=for-the-badge" alt="harshitgoel09" /></a> </p> -->
 
 - 🌱 I’m currently learning **React**
 
