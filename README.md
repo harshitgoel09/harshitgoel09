@@ -9,7 +9,7 @@
 &nbsp&nbsp; &bull; 🌱 I’m currently learning React.
 
 - 📫 How to reach me **harshitgoel09@gmail.com**
-- 📄 <a href="https://drive.google.com/file/d/1lQH19dbKGJT8H56evf8YQRDaJ2x4NDlQ/view](https://drive.google.com/file/d/1lQH19dbKGJT8H56evf8YQRDaJ2x4NDlQ/view"> Resume</a> 
+- 📄 <a href="https://drive.google.com/file/d/1lQH19dbKGJT8H56evf8YQRDaJ2x4NDlQ/view?usp=drivesdk"> Resume</a> 
 
 <!-- - 📄 Resume [https://drive.google.com/file/d/1lQH19dbKGJT8H56evf8YQRDaJ2x4NDlQ/view](https://drive.google.com/file/d/1lQH19dbKGJT8H56evf8YQRDaJ2x4NDlQ/view) -->
 
