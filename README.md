@@ -6,11 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitgoel09&label=Profile%20views&color=0e75b6&style=flat" alt="harshitgoel09" /> </p>
 
 <br>
-- 🌱 I’m currently learning **React**
+&nbsp&nbsp; &bull; 🌱 I’m currently learning React.
 
 - 📫 How to reach me **harshitgoel09@gmail.com**
+- 📄 <a href="https://drive.google.com/file/d/1lQH19dbKGJT8H56evf8YQRDaJ2x4NDlQ/view](https://drive.google.com/file/d/1lQH19dbKGJT8H56evf8YQRDaJ2x4NDlQ/view"> Resume</a> 
 
-- 📄 Resume [https://drive.google.com/file/d/1lQH19dbKGJT8H56evf8YQRDaJ2x4NDlQ/view](https://drive.google.com/file/d/1lQH19dbKGJT8H56evf8YQRDaJ2x4NDlQ/view)
+<!-- - 📄 Resume [https://drive.google.com/file/d/1lQH19dbKGJT8H56evf8YQRDaJ2x4NDlQ/view](https://drive.google.com/file/d/1lQH19dbKGJT8H56evf8YQRDaJ2x4NDlQ/view) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
