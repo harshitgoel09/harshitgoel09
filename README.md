@@ -5,14 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitgoel09&label=Profile%20views&color=0e75b6&style=flat" alt="harshitgoel09" /> </p>
 
-<br>
-&nbsp&nbsp; &bull; 🌱 I’m currently learning React.
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **harshitgoel09@gmail.com**
+
 - 📄 <a href="https://drive.google.com/file/d/1lQH19dbKGJT8H56evf8YQRDaJ2x4NDlQ/view?usp=drivesdk"> Resume</a> 
 
-<!-- - 📄 Resume [https://drive.google.com/file/d/1lQH19dbKGJT8H56evf8YQRDaJ2x4NDlQ/view](https://drive.google.com/file/d/1lQH19dbKGJT8H56evf8YQRDaJ2x4NDlQ/view) -->
-- <a href="mailto:harshitgoel09@email.com">Contact us</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshitgoel09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitgoel09" height="30" width="40" /></a>
