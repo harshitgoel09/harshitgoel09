@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Harshit Goel</h1>
-<img align="right" alt="Coding" width="400" src=""> 
+<img align="right" alt="Coding" width="400" src="https://github.com/harshitgoel09/harshitgoel09/blob/main/harshit_git_image.png"> 
 
 <h3 >Front-End Web Developer</h3>
 
