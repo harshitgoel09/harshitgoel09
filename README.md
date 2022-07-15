@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harshitgoel09@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/1lQH19dbKGJT8H56evf8YQRDaJ2x4NDlQ/view?usp=drivesdk"> Resume</a> 
+- 📄 <a href="https://drive.google.com/drive/u/0/folders/1CAXyoj2rCYyr8dPDuZYnSk-hJxmJHpaQ"> Resume</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
