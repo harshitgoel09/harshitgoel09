@@ -1,15 +1,13 @@
 <h1 >Hi 👋, I'm Harshit Goel</h1>
 <img align="right" alt="Coding" width="400" src="https://github.com/harshitgoel09/harshitgoel09/blob/main/harshit_git_image.png"> 
 
-<h3 >Front-End Web Developer</h3>
+<h3>Software Developer in Test @Paytm</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitgoel09&label=Profile%20views&color=0e75b6&style=flat" alt="harshitgoel09" /> </p>
 
 - 🌱 I’m currently learning **Backend-Dev**
 
 - 📫 How to reach me **harshitgoel09@gmail.com**
-
-- 📄 <a href="https://drive.google.com/file/d/1XvkJn09kWkknhIwEujPbFRtMmmD_nZS7/view?usp=sharing"> Resume</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
